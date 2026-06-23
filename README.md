@@ -1,5 +1,3 @@
-# servpat1
-Civic action hub for SERV members and driven community members looking to engage their local delegates
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:var(--font-sans);background:var(--color-background-tertiary);color:var(--color-text-primary);min-height:100vh;display:flex;flex-direction:column}
